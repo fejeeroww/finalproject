@@ -14,7 +14,7 @@ This project is a survey tool designed to collect and analyze participants' inco
 ## Project Component
 -flaskapp.py (Flask application)
 
--survey.html (HTML template for the survey form)
+-flaskapphtml.html (HTML template for the survey form)
 
 -process_data.py (Script to process data and create CSV)
 
